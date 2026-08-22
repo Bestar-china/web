@@ -14,13 +14,13 @@
     <aboutTitle>关于我们</aboutTitle>
     <aboutText>我们是一家专注于创新的英语培训机关，为小孩子提供高效精简的英语教育。</aboutText>
     <featuresTitle>核心服务</featuresTitle>
-    <feature1Title>智能解决方案</feature1Title>
-    <feature1Desc>基于先进技术架构，提供智能化的业务解决方案，助力企业高效运营。</feature1Desc>
-    <feature2Title>专业技术支持</feature2Title>
-    <feature2Desc>经验丰富的技术团队，7×24小时全天候支持，确保您的业务稳定运行。</feature2Desc>
-    <feature3Title>安全可靠</feature3Title>
-    <feature3Desc>采用企业级安全标准，全面保护您的数据安全与隐私，让您无后顾之忧。</feature3Desc>
-    <footerText>© 2026 企业门户. 保留所有权利.</footerText>
+    <feature1Title>智能教育</feature1Title>
+    <feature1Desc>好的英语体系。</feature1Desc>
+    <feature2Title>专业外教</feature2Title>
+    <feature2Desc>经验丰富外教为你服务。</feature2Desc>
+    <feature3Title>自创教程</feature3Title>
+    <feature3Desc>采用AI风格自创教材。</feature3Desc>
+    <footerText>© 2026 Bestar. 保留所有权利.</footerText>
   </text>
   <tags>
     <tag id="tag-1" color="#4f46e5">创新</tag>
