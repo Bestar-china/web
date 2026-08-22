@@ -34,7 +34,6 @@
   </images>
   <contacts>
     <contact id="contact-email" type="email" label="" link="" enabled="true">contact@company.com</contact>
-    <contact id="contact-phone" type="phone" label="" link="" enabled="true">+86 138-0000-0000</contact>
     <contact id="contact-address" type="address" label="" link="" enabled="true">北京市朝阳区示例路 88 号</contact>
   </contacts>
   <nav>
