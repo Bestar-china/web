@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <site-config version="1.0">
-  <siteTitle>企业门户 - 创新科技</siteTitle>
+  <siteTitle>贝豆星英语美术教育机构</siteTitle>
   <users>
     <user id="user-default" role="super_admin" createdAt="2026-08-19T17:00:00.000Z">
       <username>Bestar</username>
