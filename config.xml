@@ -6,17 +6,13 @@
       <username>Bestar</username>
       <passwordHash>5cdb2ae09fb5dd26af2fa3295bbf845cbd995b03543aea6ccfc602e84eb4826a</passwordHash>
     </user>
-    <user id="user-1787374216788-3f0x02" role="admin" createdAt="2026-08-22T04:50:16.788Z">
-      <username>test</username>
-      <passwordHash>a665a45920422f9d417e4867efdc4fb8a04a1f3fff1fa07e998e86f7f7a27ae3</passwordHash>
-    </user>
   </users>
   <text>
     <navLogo>Bestar</navLogo>
-    <heroTitle>创新科技 · 筑梦未来</heroTitle>
-    <heroSubtitle>专业的企业级解决方案提供商，致力于为您打造卓越的数字化体验</heroSubtitle>
+    <heroTitle>英语启蒙 · 专业外教</heroTitle>
+    <heroSubtitle>专业外教英语为您打好英语基础</heroSubtitle>
     <aboutTitle>关于我们</aboutTitle>
-    <aboutText>我们是一家专注于技术创新的企业，致力于为客户提供高质量的产品和服务。凭借多年的行业经验和专业的技术团队，我们帮助企业在数字化转型的浪潮中稳步前行。</aboutText>
+    <aboutText>我们是一家专注于创新的英语培训机关，为小孩子提供高效精简的英语教育。</aboutText>
     <featuresTitle>核心服务</featuresTitle>
     <feature1Title>智能解决方案</feature1Title>
     <feature1Desc>基于先进技术架构，提供智能化的业务解决方案，助力企业高效运营。</feature1Desc>
