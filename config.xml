@@ -36,6 +36,7 @@
     <contact id="contact-1787374715077-v8z6" type="phone" label="" link="" enabled="true">+86 18662435967</contact>
     <contact id="contact-1787374730452-at3s" type="website" label="" link="" enabled="true">www.bestar-education.com</contact>
     <contact id="contact-1787375215121-80x7" type="address" label="" link="" enabled="true">南京建邺区吾悦悦街3楼贝斗星教育机构</contact>
+    <contact id="contact-1787375337781-gco3" type="wechat" label="" link="" enabled="true">18917139663</contact>
   </contacts>
   <nav>
     <navItem id="nav-home" label="首页" href="#hero" enabled="true"></navItem>
