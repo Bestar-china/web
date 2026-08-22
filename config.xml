@@ -35,6 +35,7 @@
   <contacts>
     <contact id="contact-email" type="email" label="" link="" enabled="true">contact@company.com</contact>
     <contact id="contact-address" type="address" label="" link="" enabled="true">北京市朝阳区示例路 88 号</contact>
+    <contact id="contact-1787374138837-ooi4" type="phone" label="" link="tel:" enabled="true">18662435967</contact>
   </contacts>
   <nav>
     <navItem id="nav-home" label="首页" href="#hero" enabled="true"></navItem>
