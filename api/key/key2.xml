@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<apiKeySegment>
+  <algorithm>AES-256-GCM</algorithm>
+  <salt>key2</salt>
+  <iv>MzUhZvmNtPc9oSug</iv>
+  <segment>OVxy99JqbTyWHtkI9s3pmXC216LAerKkx+FXDa1d88xjnoh71mNNLnhNqqQ=</segment>
+  <createdAt>2026-08-22T04:47:00.218Z</createdAt>
+</apiKeySegment>
