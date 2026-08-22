@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <site-config version="1.0">
   <siteTitle>企业门户 - 创新科技</siteTitle>
   <users>
@@ -8,7 +8,7 @@
     </user>
   </users>
   <text>
-    <navLogo>🏢 企业门户</navLogo>
+    <navLogo>Bestar</navLogo>
     <heroTitle>创新科技 · 筑梦未来</heroTitle>
     <heroSubtitle>专业的企业级解决方案提供商，致力于为您打造卓越的数字化体验</heroSubtitle>
     <aboutTitle>关于我们</aboutTitle>
@@ -30,6 +30,7 @@
   </tags>
   <background type="gradient" color="#4f46e5" gradient="linear-gradient(135deg, #667eea 0%, #764ba2 100%)"><![CDATA[]]></background>
   <images>
+
   </images>
   <contacts>
     <contact id="contact-email" type="email" label="" link="" enabled="true">contact@company.com</contact>
