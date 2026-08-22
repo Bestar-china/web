@@ -32,7 +32,7 @@
 
   </images>
   <contacts>
-
+    <contact id="contact-1787374701189-adn9" type="email" label="" link="" enabled="true">desk@bestar-education.com</contact>
   </contacts>
   <nav>
     <navItem id="nav-home" label="首页" href="#hero" enabled="true"></navItem>
