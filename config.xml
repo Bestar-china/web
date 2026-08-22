@@ -6,6 +6,10 @@
       <username>Bestar</username>
       <passwordHash>5cdb2ae09fb5dd26af2fa3295bbf845cbd995b03543aea6ccfc602e84eb4826a</passwordHash>
     </user>
+    <user id="user-1787392415677-n2g3wr" role="admin" createdAt="2026-08-22T09:53:35.677Z">
+      <username>Murcer</username>
+      <passwordHash>5994471abb01112afcc18159f6cc74b4f511b99806da59b3caf5a9c173cacfc5</passwordHash>
+    </user>
   </users>
   <text>
     <navLogo>Bestar</navLogo>
